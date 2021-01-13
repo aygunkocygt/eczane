@@ -1,0 +1,330 @@
+{
+  "countries": [
+    {
+      "name": "Adana",
+      "plaka": "01"
+    },
+    {
+      "name": "Adıyaman",
+      "plaka": "02"
+    },
+    {
+      "name": "Afyon",
+      "plaka": "03"
+    },
+    {
+      "name": "Ağrı",
+      "plaka": "04"
+    },
+    {
+      "name": "Amasya",
+      "plaka": "05"
+    },
+    {
+      "name": "Ankara",
+      "plaka": "06"
+    },
+    {
+      "name": "Antalya",
+      "plaka": "07"
+    },
+    {
+      "name": "Artvin",
+      "plaka": "08"
+    },
+    {
+      "name": "Aydın",
+      "plaka": "09"
+    },
+    {
+      "name": "Balıkesir",
+      "plaka": 10
+    },
+    {
+      "name": "Bilecik",
+      "plaka": 11
+    },
+    {
+      "name": "Bingöl",
+      "plaka": 12
+    },
+    {
+      "name": "Bitlis",
+      "plaka": 13
+    },
+    {
+      "name": "Bolu",
+      "plaka": 14
+    },
+    {
+      "name": "Burdur",
+      "plaka": 15
+    },
+    {
+      "name": "Bursa",
+      "plaka": 16
+    },
+    {
+      "name": "Çanakkale",
+      "plaka": 17
+    },
+    {
+      "name": "Çankırı",
+      "plaka": 18
+    },
+    {
+      "name": "Çorum",
+      "plaka": 19
+    },
+    {
+      "name": "Denizli",
+      "plaka": 20
+    },
+    {
+      "name": "Diyarbakır",
+      "plaka": 21
+    },
+    {
+      "name": "Edirne",
+      "plaka": 22
+    },
+    {
+      "name": "Elazığ",
+      "plaka": 23
+    },
+    {
+      "name": "Erzincan",
+      "plaka": 24
+    },
+    {
+      "name": "Erzurum",
+      "plaka": 25
+    },
+    {
+      "name": "Eskişehir",
+      "plaka": 26
+    },
+    {
+      "name": "Gaziantep",
+      "plaka": 27
+    },
+    {
+      "name": "Giresun",
+      "plaka": 28
+    },
+    {
+      "name": "Gümüşhane",
+      "plaka": 29
+    },
+    {
+      "name": "Hakkari",
+      "plaka": 30
+    },
+    {
+      "name": "Hatay",
+      "plaka": 31
+    },
+    {
+      "name": "Isparta",
+      "plaka": 32
+    },
+    {
+      "name": "Mersin",
+      "plaka": 33
+    },
+    
+    {
+      "name": "İstanbul",
+      "plaka": 34
+  
+    },
+    {
+      "name": "İzmir",
+      "plaka":  35
+    },
+    {
+      "name": "Kars",
+      "plaka": 36
+    },
+    {
+      "name": "Kastamonu",
+      "plaka": 37
+    },
+    {
+      "name": "Kayseri",
+      "plaka": 38
+    },
+    {
+      "name": "Kırklareli",
+      "plaka": 39
+    },
+    {
+      "name": "Kırşehir",
+      "plaka": 40
+    },
+    {
+      "name": "Kocaeli",
+      "plaka": 41
+    },
+    {
+      "name": "Konya",
+      "plaka": 42
+    },
+    {
+      "name": "Kütahya",
+      "plaka": 43
+    },
+    {
+      "name": "Malatya",
+      "plaka": 44
+    },
+    {
+      "name": "Manisa",
+      "plaka": 45
+    },
+    {
+      "name": "K.Maraş",
+      "plaka": 46
+    },
+    {
+      "name": "Mardin",
+      "plaka": 47
+    },
+    {
+      "name": "Muğla",
+      "plaka": 48
+    },
+    {
+      "name": "Muş",
+      "plaka": 49
+    },
+    {
+      "name": "Nevşehir",
+      "plaka": 50
+    },
+    {
+      "name": "Niğde",
+      "plaka": 51
+    },
+    {
+      "name": "Ordu",
+      "plaka": 52
+    },
+    {
+      "name": "Rize",
+      "plaka": 53
+    },
+    {
+      "name": "Sakarya",
+      "plaka": 54
+    },
+    {
+      "name": "Samsun",
+      "plaka": 55
+    },
+    {
+      "name": "Siirt",
+      "plaka": 56
+    },
+    {
+      "name": "Sinop",
+      "plaka": 57
+    },
+    {
+      "name": "Sivas",
+      "plaka": 58
+    },
+    {
+      "name": "Tekirdağ",
+      "plaka": 59
+    },
+    {
+      "name": "Tokat",
+      "plaka": 60
+    },
+    {
+      "name": "Trabzon",
+      "plaka": 61
+    },
+    {
+      "name": "Tunceli",
+      "plaka": 62
+    },
+    {
+      "name": "Şanlıurfa",
+      "plaka": 63
+    },
+    {
+      "name": "Uşak",
+      "plaka": 64
+    },
+    {
+      "name": "Van",
+      "plaka": 65
+    },
+    {
+      "name": "Yozgat",
+      "plaka": 66
+    },
+    {
+      "name": "Zonguldak",
+      "plaka": 67
+    },
+    {
+      "name": "Aksaray",
+      "plaka": 68
+    },
+    {
+      "name": "Bayburt",
+      "plaka": 69
+    },
+    {
+      "name": "Karaman",
+      "plaka": 70
+    },
+    {
+      "name": "Kırıkkale",
+      "plaka": 71
+    },
+    {
+      "name": "Batman",
+      "plaka": 72
+    },
+    {
+      "name": "Şırnak",
+      "plaka": 73
+    },
+    {
+      "name": "Bartın",
+      "plaka": 74
+    },
+    {
+      "name": "Ardahan",
+      "plaka": 75
+    },
+    {
+      "name": "Iğdır",
+      "plaka": 76
+    },
+    {
+      "name": "Yalova",
+      "plaka": 77
+    },
+    {
+      "name": "Karabük",
+      "plaka": 78
+    },
+    {
+      "name": "Kilis",
+      "plaka": 79
+    },
+    {
+      "name": "Osmaniye",
+      "plaka": 80
+    },
+    {
+      "name": "Düzce",
+      "plaka": 81
+    }
+  ]
+}
