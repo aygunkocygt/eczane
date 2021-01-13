@@ -2,7 +2,8 @@ import axios from 'axios';
 import { FETCH_DATA } from './types';
 
 const url = 'http://api.kodlama.net/eczane';
-const urll = 'http://localhost:3001';
+const urll = 'https://countrys-api.herokuapp.com';
+
 
 
 export const fetchData =  (country) => async dispatch => {
