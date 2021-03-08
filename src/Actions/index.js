@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { FETCH_DATA } from './types';
 
-const url = 'http://api.kodlama.net/eczane';
+const url = 'https://api.kodlama.net/eczane';
 const urll = 'https://countrys-api.herokuapp.com';
 
 
